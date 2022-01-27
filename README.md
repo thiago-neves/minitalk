@@ -11,9 +11,9 @@
 A communication program in the form of a client and a server utilizing signals.
 
 ## 📋 Contents
-- [Getting started]()
-- [How to use]()
-- [Makefile commands]()
+- [Getting started](https://github.com/thiago-neves/minitalk#-getting-stated)
+- [How to use](https://github.com/thiago-neves/minitalk#-how-to-use)
+- [Makefile commands](https://github.com/thiago-neves/minitalk#-makefile-commands)
 
 ## 🏁 Getting stated
 
